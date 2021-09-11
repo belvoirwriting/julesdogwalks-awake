@@ -22,6 +22,10 @@ export default {
       name: 'About',
       link: '/about'
     },
+{
+      name: 'Services',
+      link: '/services'
+    },
     {
       name: 'Contact',
       link: '/contact'
@@ -32,7 +36,7 @@ export default {
     }
   ],
   hero: {
-    theme: 'light' // options: mist, light, dark
+    theme: 'dark' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -51,7 +55,7 @@ export default {
   disqus: {
     on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 
   },
 
   // Newsletter Subscribe
@@ -64,7 +68,7 @@ export default {
     mailchimp: {
       on: false,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://julesdogwalks.co.uk'
     },
     custom: {
       on: false,
