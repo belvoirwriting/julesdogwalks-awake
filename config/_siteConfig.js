@@ -22,6 +22,10 @@ export default {
       name: 'About',
       link: '/about'
     },
+ {
+      name: 'Services',
+      link: '/services'
+    },
     {
       name: 'Contact',
       link: '/contact'
@@ -32,7 +36,7 @@ export default {
     }
   ],
   hero: {
-    theme: 'light' // options: mist, light, dark
+    theme: 'dark' // options: mist, light, dark
   },
 
   // Main Layout/Style
