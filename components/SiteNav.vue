@@ -61,7 +61,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .navbar-item img {
-  max-height: 2rem;
+  max-height: 6rem;
 }
  .navbar {
   min-height: 80px;
