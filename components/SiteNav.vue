@@ -63,6 +63,9 @@ export default {
 .navbar-item img {
   max-height: 2rem;
 }
+ .navbar {
+  min-height: 80px;
+}
 .site-search-wrapper {
   transform: translateX(5px);
   @media (max-width: 1023px) {
