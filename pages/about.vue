@@ -15,10 +15,13 @@
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Hello, I’m Jules
+</p>
+<p>
+I am an independent dog walker in the Vale Of Belvoir. I also offer day care, over night stays and pop in visits, tailored to meet your dog's individual needs.
+</p>
+<p>
+I have a dog of my own called Ernie. He is a friendly and lively red cocker spaniel who loves to socialise with other dogs and is a much loved member of the family!
           </p>
 
           <h3>Another Fake Heading</h3>
