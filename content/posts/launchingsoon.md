@@ -2,7 +2,7 @@
 title: Launching soon
 subtitle: Dog walking, day care and overnight stays for happy dogs
 category:
-  - About Awake
+  - News
 author: Jules
 date: 2021-09-11T04:27:56.800Z
 featureImage: /uploads/happydogs.jpg
