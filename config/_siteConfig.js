@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Happy dog. Happy you.',
-  tagline: 'Dog walking, day care, boarding by **Jules**',
+  tagline: 'Dog walking, day care, boarding by Jules',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
