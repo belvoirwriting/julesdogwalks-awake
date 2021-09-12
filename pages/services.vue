@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>List of service</h3>
+          <h3>List of services</h3>
        
           <p>
             Coming soon

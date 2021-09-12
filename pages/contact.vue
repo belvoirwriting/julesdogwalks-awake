@@ -26,12 +26,7 @@
               </figure>
               <br />
               <div class="content">
-                <p>
-                  <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
-                  </strong>
-                </p>
+              
                 <p>
                   This form is under construction. Email julesdogwalks@gmail.com.
                 </p>
