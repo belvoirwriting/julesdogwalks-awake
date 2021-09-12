@@ -1,9 +1,9 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Jules"
-      subtitle="Your Vale of Belvoir dog walker"
-      image="/uploads/frostyfield.jpg"
+      title="Contact Us"
+      subtitle="find out more"
+      image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-                Book your walk today
+              Book your walk today
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -26,9 +26,8 @@
               </figure>
               <br />
               <div class="content">
-              
                 <p>
-                  This form is under construction. Email julesdogwalks@gmail.com.
+                 Use this form to get in touch, to book a walk or stay or for more information about what we do.
                 </p>
               </div>
             </article>
