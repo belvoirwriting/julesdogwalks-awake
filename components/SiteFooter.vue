@@ -1,13 +1,8 @@
 <template>
   <footer class="site-footer">
-<b>Email</b> julesdogwalks@gmail.com
- <br />
-
-   
    Dog walker based in Granby, Nottingham, walking dogs from villages across the Vale of Belvoir, offering day care and overnight stays for your dog.
 <br /> 
-{{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
+<b>Email</b> julesdogwalks@gmail.com
   </footer>
 </template>
 
