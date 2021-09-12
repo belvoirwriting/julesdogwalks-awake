@@ -3,7 +3,7 @@
     <site-hero
       title="Contact Us"
       subtitle="find out more"
-      image="/uploads/contact-hero.jpg"
+      image="/uploads/frostyfield.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -27,7 +27,7 @@
               <br />
               <div class="content">
                 <p>
-                 Use this form to get in touch, to book a walk or stay or for more information about what we do.
+                 Use this form to get in touch, to book a walk or stay or for more information about what I do.
                 </p>
               </div>
             </article>

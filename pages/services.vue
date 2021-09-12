@@ -15,7 +15,7 @@
 </p>
 
 <p>
-Check back here for our list of services          </p>
+Check back here for my list of services          </p>
 
         </div>
       </template>
