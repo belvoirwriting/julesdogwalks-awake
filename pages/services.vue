@@ -3,7 +3,7 @@
     <site-hero
       title="Services"
       subtitle="Walking happy dogs"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/happydogs.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

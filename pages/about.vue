@@ -3,7 +3,7 @@
     <site-hero
       title="About Us"
       subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/frostyfield.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -24,25 +24,7 @@ I am an independent dog walker in the Vale Of Belvoir. I also offer day care, ov
 I have a dog of my own called Ernie. He is a friendly and lively red cocker spaniel who loves to socialise with other dogs and is a much loved member of the family!
           </p>
 
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
+         
         </div>
 
         <div class="tile is-ancestor">
