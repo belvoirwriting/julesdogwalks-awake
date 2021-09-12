@@ -1,9 +1,9 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      title="Contact Jules"
+      subtitle="Your Vale of Belvoir dog walker"
+      image="/uploads/frostyfield.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -14,13 +14,13 @@
                 Hello!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                Book your walk today
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/happydogs.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/happydogs.jpg').srcSet
                   "
                 />
               </figure>
@@ -33,10 +33,7 @@
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  This form is under construction. Email julesdogwalks@gmail.com.
                 </p>
               </div>
             </article>
