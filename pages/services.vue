@@ -51,7 +51,7 @@
 </thead>
 <tbody>
 <tr>
-<td>All day stay (8 hrs)  </td>
+<td>All day stay (8 hrs)</td>
 <td>£20 per day</td>
 </tr>
 </tbody>
