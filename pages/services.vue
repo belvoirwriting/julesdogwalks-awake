@@ -9,7 +9,7 @@
       <template v-slot:default>
         <div class="content">
 <p>
-     ## Walks
+<h2>Walks</h2>
 
 <table>
 <thead>
