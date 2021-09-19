@@ -35,9 +35,12 @@
 <td>Twice daily - 30min each walk</td>
 <td>£14</td>
 </tr>
+<tr>
+<td><i>Weekend and holiday surcharge</i></td>
+<td><i>£3</i></td>
+</tr>
 </tbody>
 </table>
-<br/><i>Weekend and holiday surcharge £3</i>
 </p>
 <p>
 <h2>Day care</h2>
