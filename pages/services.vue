@@ -11,7 +11,8 @@
 <p>
 <h2>Walks</h2>
 
-<table>
+<table width="100%">
+<col style="width:50%">
 <thead>
 <tr>
 <th>Option</th>
@@ -46,6 +47,8 @@
 <h2>Day care</h2>
 
 <table>
+<table width="100%">
+<col style="width:50%">
 <thead>
 <tr>
 <th>Option</th>
@@ -65,6 +68,8 @@
 <h2>Overnight stays</h2>
 
 <table>
+<table width="100%">
+<col style="width:50%">
 <thead>
 <tr>
 <th>Option</th>
@@ -84,6 +89,8 @@
 <h2>Home visits / pop-ins</h2>
 Perfect for pups, older dogs, cats and other small animals
 <table>
+<table width="100%">
+<col style="width:50%">
 <thead>
 <tr>
 <th>Option</th>
@@ -111,6 +118,8 @@ Perfect for pups, older dogs, cats and other small animals
 <h2>Pet taxi</h2>
 Transport to vet or groomers
 <table>
+<table width="100%">
+<col style="width:50%">
 <thead>
 <tr>
 <th>Option</th>
