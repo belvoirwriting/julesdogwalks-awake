@@ -8,14 +8,26 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>List of services</h3>
-       
-          <p>
-            Coming soon
+<p>
+     ## Walks
+
+| Option                             |Price                                        |
+| -----------------------------------|---------------------------------------------|
+| Group (3 dogs max per group)- 1 hr |£12 (£3 for additonal dog from same household|
+| Solo - 30 min                      |£8                                           |
+| Solo - 1 hr                        |£15                                          |
+| Solo twice daily - 30min each walk |£14                                          |
+<i>Weekend and holiday surcharge - £3</i>
+</p>
+<p>
+     ## Day care
+
+| Option                             |Price                                        |
+| -----------------------------------|---------------------------------------------|
+| All day stay (8 hrs)               |£20 per day                                  |
+<i>Weekend and holiday surcharge - £3</i>
 </p>
 
-<p>
-Check back here for my list of services          </p>
 
         </div>
       </template>
