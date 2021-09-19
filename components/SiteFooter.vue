@@ -4,7 +4,7 @@
 <br /> 
 <b>Email</b> julesdogwalks@gmail.com 
 <br /> 	
-\1F4DE 07393 746756 
+&#128222; 07393 746756 
   </footer>
 </template>
 
