@@ -1,6 +1,8 @@
 ---
 title: Services
 subtitle: Walking happy dogs
+author: Jules
+date: 2021-09-11T04:27:56.800Z
 featureImage: /uploads/happydogs.jpg
 ---
 
