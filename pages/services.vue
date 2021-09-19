@@ -11,14 +11,33 @@
 <p>
      ## Walks
 
-| Option                              | Price                                         |
-| ----------------------------------- | --------------------------------------------- |
-| Group (3 dogs max per group)- 1 hr  | £12 (£3 for additonal dog from same household |
-| Solo - 30 min                       | £8                                            |
-| Solo - 1 hr                         | £15                                           |
-| Solo twice daily - 30min each walk  | £14                                           |
-
- <i>Weekend and holiday surcharge - £3</i>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Group (3 dogs max per group)- 1 hr</td>
+<td>£12 (£3 for additonal dog from same household</td>
+</tr>
+<tr>
+<td>Solo - 30 min</td>
+<td>£8</td>
+</tr>
+<tr>
+<td>Solo - 1 hr</td>
+<td>£15</td>
+</tr>
+<tr>
+<td>twice daily - 30min each walk</td>
+<td>£14</td>
+</tr>
+</tbody>
+</table>
+<br/>
 </p>
 <p>
      ## Day care
