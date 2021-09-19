@@ -37,7 +37,7 @@
 </tr>
 </tbody>
 </table>
-<br/>
+<br/><i>Weekend and holiday surcharge £3</i>
 </p>
 <p>
 <h2>Day care</h2>
@@ -58,7 +58,6 @@
 </table>
 <br/>
 </p>
-<p>
         </div>
       </template>
 
