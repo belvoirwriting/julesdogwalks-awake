@@ -32,7 +32,7 @@
 <td>£15</td>
 </tr>
 <tr>
-<td>twice daily - 30min each walk</td>
+<td>Twice daily - 30min each walk</td>
 <td>£14</td>
 </tr>
 </tbody>
@@ -40,15 +40,25 @@
 <br/>
 </p>
 <p>
-     ## Day care
+<h2>Day care</h2>
 
-| Option                             |Price                                        |
-| -----------------------------------|---------------------------------------------|
-| All day stay (8 hrs)               |£20 per day                                  |
-<i>Weekend and holiday surcharge - £3</i>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All day stay (8 hrs)  </td>
+<td>£20 per day</td>
+</tr>
+</tbody>
+</table>
+<br/>
 </p>
-
-
+<p>
         </div>
       </template>
 
