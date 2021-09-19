@@ -6,7 +6,6 @@
 <br /> 	
  <b>Email</b> julesdogwalks@gmail.com
 <br />
-f16d
   </footer>
 </template>
 
