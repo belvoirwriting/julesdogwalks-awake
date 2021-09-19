@@ -5,8 +5,8 @@
 <b>Call</b> 07393 746756 
 <br /> 	
  <b>Email</b> julesdogwalks@gmail.com
-<br /> 	
-<i class="fab fa-instagram"></i>
+<br />
+f16d
   </footer>
 </template>
 
