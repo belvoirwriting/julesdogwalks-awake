@@ -20,24 +20,24 @@
 </thead>
 <tbody>
 <tr>
-<td>Group (3 dogs max per group)- 1 hr</td>
-<td>£12 (£3 for additonal dog from same household</td>
+<td>Group walk (3 dogs max per group)- 1 hr</td>
+<td>£12 (£3 for additional dog from same household)</td>
 </tr>
 <tr>
-<td>Solo - 30 min</td>
+<td>Solo walk - 30 min</td>
 <td>£8</td>
 </tr>
 <tr>
-<td>Solo - 1 hr</td>
+<td>Solo walk - 1 hr</td>
 <td>£15</td>
 </tr>
 <tr>
-<td>Twice daily - 30min each walk</td>
+<td>Twice daily walks - 30min each</td>
 <td>£14</td>
 </tr>
 <tr>
-<td><i>Weekend and holiday surcharge</i></td>
-<td><i>£3</i></td>
+<td>Weekend and holiday surcharge</td>
+<td>£3</td>
 </tr>
 </tbody>
 </table>
@@ -61,6 +61,76 @@
 </table>
 <br/>
 </p>
+<p>
+<h2>Overnight stays</h2>
+
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Overnight stay (24 hrs)</td>
+<td>£25 per night</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</p>
+
+<h2>Home visits / pop-ins</h2>
+Perfect for pups, older dogs, cats and other small animals
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20 min visit - feeding, toilet break, cuddles</td>
+<td>£8</td>
+</tr>
+<tr>
+<td>Twice daily visit</td>
+<td>£14</td>
+</tr>
+<tr>
+<td>Weekend and holiday surcharge</td>
+<td>£3</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</p>
+
+<h2>Pet taxi</h2>
+Transport to vet or groomers
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Per trip</td>
+<td>£10 plus 50p per mile</td>
+</tr>
+<tr>
+<td>Waiting times</td>
+<td>£5 per 15 min</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</p>
+     
         </div>
       </template>
 
@@ -78,7 +148,7 @@ import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `Services | ${this.$siteConfig.siteName}`
     }
   },
   components: { QuoteCard }
